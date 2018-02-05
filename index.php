@@ -5,7 +5,7 @@
 <body style="background-color:powderblue;"><center><h1>BIOGRAPHY</h1></center><br>
 <p><front face = 'Georgia'><center>Hi, my name is John Paul B. Villarin, a resident of Tangke 1, City of Naga, Cebu.
  I belong to a one big happy family of nine and the eldest of three boys. I am a first </center>year student of Cebu 
-Technological University (CTU) studying Bachelor of Science in Information Communication of Technology (BSICT).
+Technological University (CTU) studying Bachelor of Science Information and Communication Technology (BSICT).
 I decided to take this course to learn abaout computers and gain skill that I can use in my future work. After 
 school hours, I spend my free time in playing basketball and online games with my friends.</front></p><br>
 <p><h1><center>My Personal Information</center></h1></p><br>
